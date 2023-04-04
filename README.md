@@ -1,3 +1,3 @@
 # Temperature_Converter
-Experienced in designing and implementing stopwatch functionality using
+Experienced in designing and implementing Temperature_Converter functionality using
 JavaScript
