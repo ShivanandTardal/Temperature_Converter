@@ -1,2 +1,3 @@
 # Temperature_Converter
-Creating website by using standard HTML/CSS and JavaScript practices.
+Experienced in designing and implementing stopwatch functionality using
+JavaScript
